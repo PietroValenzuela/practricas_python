@@ -15,6 +15,6 @@ fullname = nombre + " " + apellido
 print (fullname)
 #variable tipo booleano
 lampara=True
-print (lampara)
+print ("la lampara esta encendida",lampara)
 lampara=False
-print (lampara)
+print ("la lampara esta apagada", lampara)
